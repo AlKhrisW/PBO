@@ -1,4 +1,4 @@
-package PBO.SepedaDemo;
+package SepedaDemo;
 
 public class sepedagunung extends sepeda{
     private String tipeSuspensi;

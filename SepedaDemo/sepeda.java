@@ -1,4 +1,4 @@
-package PBO.SepedaDemo;
+package SepedaDemo;
 
 public class sepeda {
     private String merek;
