@@ -1,6 +1,6 @@
 package PBO.SepedaDemo;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         sepeda spd1 = new sepeda();
         sepeda spd2 = new sepeda();
