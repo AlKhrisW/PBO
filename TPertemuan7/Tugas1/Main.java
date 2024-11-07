@@ -1,4 +1,4 @@
-package TPertemuan5.Tugas1;
+package TPertemuan7.Tugas1;
 
 public class Main {
     public static void main(String[] args) {

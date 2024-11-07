@@ -1,4 +1,4 @@
-package TPertemuan5.Tugas3;
+package TPertemuan7.Tugas3;
 
 public class Kendaraan {
     public int kecepatan;
